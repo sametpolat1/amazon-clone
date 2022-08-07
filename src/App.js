@@ -4,7 +4,6 @@ function App() {
   return (
     //BEM
     <div className="app">
-      <h1> Hello Clever Programmers</h1>
       <Header />
       {/*Home*/}
     </div>
